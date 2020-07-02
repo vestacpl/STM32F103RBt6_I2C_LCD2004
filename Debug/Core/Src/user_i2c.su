@@ -1,0 +1,9 @@
+stm32f1xx_ll_i2c.h:1129:26:LL_I2C_IsActiveFlag_TXE	16	static
+stm32f1xx_ll_i2c.h:1168:26:LL_I2C_IsActiveFlag_SB	16	static
+stm32f1xx_ll_i2c.h:1181:26:LL_I2C_IsActiveFlag_ADDR	16	static
+stm32f1xx_ll_i2c.h:1396:22:LL_I2C_ClearFlag_ADDR	24	static
+stm32f1xx_ll_i2c.h:1554:22:LL_I2C_AcknowledgeNextData	16	static
+stm32f1xx_ll_i2c.h:1567:22:LL_I2C_GenerateStartCondition	16	static
+stm32f1xx_ll_i2c.h:1578:22:LL_I2C_GenerateStopCondition	16	static
+stm32f1xx_ll_i2c.h:1740:22:LL_I2C_TransmitData8	16	static
+user_i2c.c:4:6:I2C_TransmitData	16	static

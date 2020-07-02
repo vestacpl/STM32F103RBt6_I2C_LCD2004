@@ -1,0 +1,3 @@
+stm32f1xx_ll_bus.h:763:22:LL_APB2_GRP1_EnableClock	24	static
+stm32f1xx_ll_gpio.h:833:22:LL_GPIO_ResetOutputPin	16	static
+gpio.c:40:6:MX_GPIO_Init	32	static

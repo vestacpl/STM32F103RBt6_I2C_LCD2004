@@ -1,0 +1,9 @@
+user_lsd_2004.c:8:6:mcDelay	16	static
+user_lsd_2004.c:17:6:SendByte	24	static
+user_lsd_2004.c:30:6:SendHalfByte	16	static
+user_lsd_2004.c:41:6:LCD_WriteByteByI2C	16	static
+user_lsd_2004.c:47:6:LCD_SendChar	16	static
+user_lsd_2004.c:53:6:LCD_String	24	static
+user_lsd_2004.c:64:6:LCD_SetPos	16	static
+user_lsd_2004.c:84:6:LCD_Clear	8	static
+user_lsd_2004.c:91:6:LCD_Init	8	static

@@ -1,0 +1,16 @@
+stm32f1xx_ll_i2c.h:461:22:LL_I2C_EnableClockStretching	16	static
+stm32f1xx_ll_i2c.h:508:22:LL_I2C_DisableGeneralCall	16	static
+stm32f1xx_ll_i2c.h:550:22:LL_I2C_SetOwnAddress2	16	static
+stm32f1xx_ll_i2c.h:572:22:LL_I2C_DisableOwnAddress2	16	static
+stm32f1xx_ll_i2c.h:1129:26:LL_I2C_IsActiveFlag_TXE	16	static
+stm32f1xx_ll_i2c.h:1168:26:LL_I2C_IsActiveFlag_SB	16	static
+stm32f1xx_ll_i2c.h:1181:26:LL_I2C_IsActiveFlag_ADDR	16	static
+stm32f1xx_ll_i2c.h:1396:22:LL_I2C_ClearFlag_ADDR	24	static
+stm32f1xx_ll_i2c.h:1554:22:LL_I2C_AcknowledgeNextData	16	static
+stm32f1xx_ll_i2c.h:1567:22:LL_I2C_GenerateStartCondition	16	static
+stm32f1xx_ll_i2c.h:1578:22:LL_I2C_GenerateStopCondition	16	static
+stm32f1xx_ll_i2c.h:1740:22:LL_I2C_TransmitData8	16	static
+stm32f1xx_ll_bus.h:447:22:LL_APB1_GRP1_EnableClock	24	static
+stm32f1xx_ll_bus.h:763:22:LL_APB2_GRP1_EnableClock	24	static
+i2c.c:28:6:MX_I2C1_Init	56	static
+i2c.c:65:6:I2C_TransmitData	16	static
